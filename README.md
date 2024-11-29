@@ -1,6 +1,13 @@
-# Learning pandas - YouTube Tutorial Summary
+# Learning pandas from AlexTheAnalyst
 
-I am currently learning pandas by following this YouTube tutorial [https://www.youtube.com/watch?v=dUpyC40cF6Q&list=PLUaB-1hjhk8GZOuylZqLz-Qt9RIdZZMBE]. The tutorial covers various aspects of pandas and data manipulation, and I am summarizing the key learnings and exercises as I go. This will serve as my personal study guide.
+I’ve been learning **pandas** by following the tutorials provided by [AlexTheAnalyst](https://www.youtube.com/@AlexTheAnalyst). During the course, I’ve used the files provided in the lessons and summarized the key points. While the material is based on the tutorial, I’ve added my personal notes along the way.
 
-Feel free to check the tutorial for more in-depth learning.
+**Note on environment**:  
+The tutorial by AlexTheAnalyst uses **Jupyter Notebooks**, but I’ve been using **Google Colab** for my work. This means that the process of importing and handling data might be slightly different. For example, in Google Colab, you can use the `files.upload()` function to easily upload files directly from your local machine, which is different from the typical file handling in Jupyter Notebooks.
 
+Check out the original tutorial: [AlexTheAnalyst - YouTube](https://www.youtube.com/@AlexTheAnalyst)
+You can download the files from his channel.
+
+Feel free to explore my summary of the lessons as I continue to learn data analysis!
+
+**Note:** The exercises in this repository are based on the tutorial, and I’ve organized them to enhance my understanding of pandas.
